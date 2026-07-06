@@ -25,6 +25,13 @@ https://yourwebsite.com
 ## Screenshots
 
 
+### Homepage
+
+<img src="images/Roots-HP.png" width="800">
+
+### Services
+
+<img src="images/Roots-SS.png" width="800">
 
 ## What I Learned
 
